@@ -82,6 +82,7 @@
         --height: 51px;
         position: relative;
         font-weight: 700;
+		font-size: var(--fs-large);
         text-transform: uppercase;
         letter-spacing: 0.2rem;
         display: flex;
@@ -102,7 +103,7 @@
         width: max-content;
         left: 50%;
         transform: translateX(-50%);
-        font-size: var(--fs-large);
+        font-size: 40px;
         cursor: pointer;
         text-align: center;
         color: #23b350;  // Added green color for Wordle+ text

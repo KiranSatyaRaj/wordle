@@ -89,6 +89,7 @@
 		flex-direction: column;
 		align-items: center;
 		margin-bottom: 2px;
+		font-size: 1.25rem; 
 	}
 	.row {
 		touch-action: manipulation;
@@ -103,6 +104,6 @@
 	}
 	svg {
 		fill: var(--fg-primary);
-		width: 24px;
+		width: 28px;
 	}
 </style>

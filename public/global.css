@@ -89,7 +89,7 @@ a:visited {
 .tutorial {
 	--arrow-size: 10px;
 	--padding: 10px;
-	font-size: var(--fs-small);
+	font-size: var(--fs-large);
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: initial;

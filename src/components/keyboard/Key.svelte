@@ -14,11 +14,11 @@
 
 <style>
 	div {
-		font-size: calc(var(--fs-tiny) + 1px);
+		font-size: calc(var(--fs-tiny) + 20px);
 		font-weight: bold;
 		text-transform: uppercase;
-		border-radius: 4px;
-		height: 58px;
+		border-radius: 6px;
+		height: 60px;
 		background: var(--key-bg);
 		cursor: pointer;
 		display: grid;
@@ -35,7 +35,7 @@
 		background: var(--key-bg) !important;
 	}
 	.big {
-		font-size: var(--fs-tiny);
+		font-size: var(--fs-regular);
 		flex-grow: 1.5;
 	}
 	.⬛ {
