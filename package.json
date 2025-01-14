@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MikhaD/wordle.git"
+    "url": "git+https://github.com/kiransatyaraj/wordle.git"
   },
   "keywords": [],
-  "author": "MikhaD",
+  "author": "kiransatyaraj",
   "bugs": {
-    "url": "https://github.com/MikhaD/wordle/issues"
+    "url": "https://github.com/kiransatyaraj/wordle/issues"
   },
-  "homepage": "https://github.com/MikhaD/wordle#readme",
+  "homepage": "https://github.com/kiransatyaraj/wordle#readme",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.0.2",
     "@tsconfig/svelte": "^3.0.0",
