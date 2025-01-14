@@ -1,7 +1,7 @@
-![Wordle+](https://raw.githubusercontent.com/kiransatyaraj/wordle/main/public/img/og_1200x630.png)
+![Wordle+](https://raw.githubusercontent.com/MikhaD/wordle/main/public/img/og_1200x630.png)
 <div align="center">
-  <a href="https://kiransatyaraj.github.io/wordle/" ><img src="https://github.com/kiransatyaraj/wordle/workflows/Publish/badge.svg?branch=main" alt="Publish workflow"/></a>
-  <img src="https://img.shields.io/github/package-json/v/kiransatyaraj/wordle" alt="GitHub package.json version" />
+  <a href="https://kiransatyaraj.github.io/wordle/" ><img src="https://github.com/MikhaD/wordle/workflows/Publish/badge.svg?branch=main" alt="Publish workflow"/></a>
+  <img src="https://img.shields.io/github/package-json/v/MikhaD/wordle" alt="GitHub package.json version" />
 </div>
 
 ---
