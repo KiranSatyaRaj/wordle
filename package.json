@@ -10,17 +10,15 @@
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json"
-    "predeploy": "vite build"
-    "deploy": "vite build && gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MikhaD/wordle.git"
+    "url": "git+https://github.com/KiranSatyaRaj/wordle.git"
   },
   "keywords": [],
   "author": "MikhaD",
   "bugs": {
-    "url": "https://github.com/MikhaD/wordle/issues"
+    "url": "https://github.com/KiranSatyaRaj/wordle/issues"
   },
   "homepage": "https://github.com/MikhaD/wordle#readme",
   "devDependencies": {
